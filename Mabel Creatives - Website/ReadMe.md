@@ -1,5 +1,3 @@
-![image](https://github.com/JD-Erasmus/Portfolio/assets/67024658/43ad6f64-d4ae-4c72-b1b9-25d4178ebb09)# Mabel Creatives
-
 Click [here](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1) to open the Figma design for this project:
 <br>
 <br>
