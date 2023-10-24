@@ -38,7 +38,9 @@ After completing the design, I believe in the value of sitting down with the cli
 Through collaborative sessions and brainstorming, we harness the power of the design file to visualize those ideas. It's much easier to form a completed vision when you have something tangible to look at, and this is where the design file plays a pivotal role. It becomes a canvas for creativity, a foundation for discussion, and a catalyst for turning ideas into reality.
 
 ## Implementation
-I didn't stop at design. I also implemented the website on WordPress, bringing the design to life. You can explore the live website [here](https://mabelcreatives.com). 
+I didn't stop at design. I also implemented the website on WordPress, bringing the design to life. One of the pivotal considerations during the implementation was ensuring responsiveness. Given the client's substantial presence on Instagram, where users predominantly engage on mobile devices, it was evident that mobile-friendliness was a key factor.
+
+The website was meticulously designed and developed to provide an optimal user experience across a variety of devices, with a particular focus on mobile usability. This approach ensures that visitors can seamlessly access the website and its connected subsites, regardless of the device they use. You can explore the live website [here](https://mabelcreatives.com).
 
 ## Outcomes
 The project culminated in a design that left the client thoroughly impressed. It's a testament to my ability to transform a vision into a visually captivating web solution that aligns perfectly with the client's style and brand identity.
