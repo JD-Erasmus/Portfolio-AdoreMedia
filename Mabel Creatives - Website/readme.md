@@ -22,7 +22,8 @@ The client, an umbrella company, has a vision to create a unified digital presen
 This ambitious undertaking required in-depth planning, strategic design, and an unwavering commitment to delivering a web solution that seamlessly integrates the main site with the four subsites.
 
 ## The Design Process
-I embraced the challenge of crafting a design that not only met the client's requirements but also exceeded their expectations. Here's how I navigated the design process:
+During the design phase, I utilized Figma to create a comprehensive visual representation of the project. You can explore the detailed design in the [Figma design file](../figma/figma.md) to get a closer look at the creative concepts and layout elements.
+
 
 ### Research:
 Extensive research helped me gain insights into the client's industry, competitors, and target audience. This understanding was foundational for creating a design that resonated with the client's goals.
