@@ -9,7 +9,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Figma Design](#figma-design)
-- [Project Description](#project-description)
 
 ## Overview
 Mabel Creatives showcases my design skills and ability to understand a client's vision. I was tasked with turning a creative vision into a reality, ensuring both client satisfaction and an exceptional user experience.
@@ -19,9 +18,4 @@ Mabel Creatives showcases my design skills and ability to understand a client's 
 
 - **[Link to Figma Design](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1)**
 
-## Project Description
-Mabel Creatives was a journey of turning a creative vision into a reality. This project embodies my commitment to creating web experiences that resonate with the client's goals and leave a lasting impression on their audiences.
 
-Through in-depth research, collaboration, and a client meeting, I delivered a design that left the client thoroughly impressed. This project showcases not only my design skills but also my ability to translate a vision into a visually captivating web solution.
-
-Please explore our work, and we look forward to connecting with you!
