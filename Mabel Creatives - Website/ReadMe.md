@@ -1,8 +1,10 @@
-# Mabel Creatives
+![image](https://github.com/JD-Erasmus/Portfolio/assets/67024658/43ad6f64-d4ae-4c72-b1b9-25d4178ebb09)# Mabel Creatives
 
-[![Figma Design](figma-logo.png)](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1)
+Click [here](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1) to open the Figma design for this project:
+<br>
+<br>
+<a href="https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1"> <img src="figma-logo.png" alt="Alt Text" style="max-width:40vh; height:50vh;"></a>
 
-> Brief description of the project.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,12 +17,18 @@
 - [License](#license)
 
 ## Overview
-Provide a high-level overview of the project, its goals, and significance. Explain what the project is about and why it was created.
+
+Mabel Creatives was a unique design project where I was handed the reins to craft a web design from the ground up. Initially, no implementation had taken place, but I was provided with a color palette and tasked with conducting research on the client to create a design that perfectly aligned with their style and brand identity.
+
+After thorough research and a collaborative meeting with the client, I presented them with the design, and I'm delighted to say that they were thoroughly impressed with the results. This project showcases not just my design skills, but also my ability to understand a client's vision and translate it into a visually captivating web solution.
+
+The design embodies our commitment to creating web experiences that resonate with our clients' goals and leave a lasting impression on their audiences. Through this project, I demonstrated my capacity to turn a creative vision into a reality, ensuring both client satisfaction and an exceptional user experience.
 
 ## Figma Design
-[![Figma Design](figma-thumbnail.png)](Figma_URL)
-- [Link to Figma Design](Figma_URL)
-- [Figma File (if available)](Figma_File_URL)
+
+[![Figma Design](mabelThumbnail.png)]([Figma_URL](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1))
+- [Link to Figma Design](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1)
+)
 
 Include a link to the Figma design, a preview image, and the direct link to the Figma file (if you have it available).
 
