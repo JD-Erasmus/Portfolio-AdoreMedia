@@ -1,7 +1,7 @@
 Click [here](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1) to open the Figma design for this project:
 <br>
 <br>
-<a href="https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1"> <img src="figma-logo.png" alt="Alt Text" style="max-width:40vh; height:50vh;"></a>
+<a href="https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=5%3A33&mode=design&t=jfltSFHrySwQui1i-1"> <img src="assets/figma-logo.png" alt="Alt Text" style="max-width:40vh; height:50vh;"></a>
 
 
 ## Table of Contents
@@ -20,11 +20,11 @@ Mabel Creatives was a unique design project where I was handed the reins to craf
 
 After thorough research and a collaborative meeting with the client, I presented them with the design, and I'm delighted to say that they were thoroughly impressed with the results. This project showcases not just my design skills, but also my ability to understand a client's vision and translate it into a visually captivating web solution.
 
-The design embodies our commitment to creating web experiences that resonate with our clients' goals and leave a lasting impression on their audiences. Through this project, I demonstrated my capacity to turn a creative vision into a reality, ensuring both client satisfaction and an exceptional user experience.
+The design embodies my commitment to creating web experiences that resonate with the client's goals and leave a lasting impression on their audiences. Through this project, I demonstrated my capacity to turn a creative vision into a reality, ensuring both client satisfaction and an exceptional user experience.
 
 ## Figma Design
 
-[![Figma Design](mabelThumbnail.png)]([Figma_URL](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1))
+[![Figma Design](assets/mabelThumbnail.png)]([Figma_URL](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1))
 - [Link to Figma Design](https://www.figma.com/file/cF4vNUjU2FAasYeFWjEk0K/Mabel?type=design&node-id=0%3A1&mode=design&t=jfltSFHrySwQui1i-1)
 )
 
