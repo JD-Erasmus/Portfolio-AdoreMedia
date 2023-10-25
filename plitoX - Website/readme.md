@@ -21,7 +21,7 @@
 
 # Introduction
 
-Welcome to the "PlitoX" project, where I embarked on a mission to revamp the front end of our client's website. Starting with a design concept crafted in Figma (see [Figma design file](figma.md)). The next step involved customizing an HTML template and adapting it to realize the client's vision through careful HTML, CSS, and JavaScript editing. 
+Welcome to the "PlitoX" project, where I embarked on a mission to revamp the front end of our client's website. Starting with a design concept crafted in Figma (see [Figma design file](figma/figma.md)). The next step involved customizing an HTML template and adapting it to realize the client's vision through careful HTML, CSS, and JavaScript editing. 
 
 # Project Background
 ## Client's Request
