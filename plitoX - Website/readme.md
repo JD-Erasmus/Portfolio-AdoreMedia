@@ -28,7 +28,7 @@ Welcome to the "PlitoX" project, where I embarked on a mission to revamp the fro
 The client initially requested a front-end redesign for their website, with a primary emphasis on enhancing performance and SEO, in addition to achieving improved responsiveness.
 
 ## Design Concept
-To meet this request, I began by creating a design concept using Figma. Explore the detailed, minimal design of the PlitoX home page in the [Figma design file](figma.md). The client approved this concept, paving the way for the next stages of the project.
+To meet this request, I began by creating a design concept using Figma. Explore the detailed, minimal design of the PlitoX home page in the [Figma design file](figma/figma.md). The client approved this concept, paving the way for the next stages of the project.
 
 ## HTML Template
 Subsequently, the client provided an HTML template that came pre-built with multiple pages, which could be customized through HTML/CSS/JavaScript editing for the desired redesign.
